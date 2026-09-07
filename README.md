@@ -120,7 +120,7 @@ The `Hyper-Photon` executable will be placed in the `build/` directory, with `cp
 ## Usage
 
 ```bash
-Hyper-Photon <input.Hyper-Photon> [options]
+Photo <input.Hyper-Photon> [options]
 ```
 
 | Option | Description |
@@ -134,13 +134,13 @@ Hyper-Photon <input.Hyper-Photon> [options]
 Generate C++ from a Hyper-Photon file:
 
 ```bash
-Hyper-Photon examples/code.Hyper-Photon
+Photo examples/code.hp
 ```
 
 Generate and immediately compile it into a binary:
 
 ```bash
-Hyper-Photon examples/code.Hyper-Photon --build
+Photo examples/code.hp --build
 ```
 
 With `--build`, Hyper-Photon detects your OS and compiler automatically. On Windows it locates MSVC via `vswhere` (offering to install the Build Tools if missing); on Linux it looks for `g++` (offering an install command for `apt`, `dnf`, `pacman`, or `zypper` if missing).

@@ -5,10 +5,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
 if(WIN32)
-    set(WAVE_RC_FILE ${CMAKE_SOURCE_DIR}/wave.rc)
+    set(WAVE_RC_FILE ${CMAKE_SOURCE_DIR}/hp.rc)
 endif()
 
-add_executable(wave
+add_executable(photo
     src/lexer.cpp
     src/generator.cpp
     src/main.cpp
@@ -30,8 +30,8 @@ target_include_directories(wave PRIVATE
 
 # Copy cpp_dic/ next to the built executable so wave can find
 # cpp_dic/dic.json regardless of the working directory it's run from.
-add_custom_command(TARGET wave POST_BUILD
+add_custom_command(TARGET photo POST_BUILD
     COMMAND ${CMAKE_COMMAND} -E copy_directory
     ${CMAKE_SOURCE_DIR}/cpp_dic
-    $<TARGET_FILE_DIR:wave>/cpp_dic
+    $<TARGET_FILE_DIR:photo>/cpp_dic
 )
