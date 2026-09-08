@@ -1,4 +1,8 @@
->*Hyper-Photon™ is a trademark of VoidGriefedTeam*
+> **Hyper-Photon™** is a trademark of VoidGriefedTeam.
+> 
+> Copyright (C) 2026 VoidGriefedTeam
+> This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.
+
 ---
 # Hyper-Photon™
 [![Windows Supported](https://shields.io/badge/Windows-Supported-0078D6?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAACkElEQVR4nO2dvWtTURiHf4Nfq6uTuPgHuDtIcRDEyVVwERGcHFwdHFRcnKSri1CK5w2Ii0MXNwUXHYuDboKfoFjT%2FiQxirk1aRJuck7ufR54p9BL7%2FPQe1ISzpEAAAAAAAAAACbjsQ8r%2BYQ6Pq%2Fk6wqvKvmpwm8nvALMKPmZwh8V9ojp7n1hGCf5gcIvFP40RvK4IcAekm8oea0vOfnzjJIJMFJy%2BILCt%2F6R%2FGUOklsaIPmowisKX1b4rpJDya%2BV%2FH3BkhsaYMP7tO5jeuTTSr6y6%2FX8chsQ4I%2Fk8IqSLw09LsLfhm6mSn65SxJg1ftHSp7mcVElv9yCAoyS%2FPuZ%2FLOWm6nS2gAdn1PyNSXfH%2Fy390bh7bnfTJXWBsh1M1XyyyWAyh8CiAAEqJfkHQKYAMovlwBq6Row%2F%2Ff8QQACBAFMAAK4xABdApgAyi%2BXACp%2FCKDGBajrAxYCzAgBTIAerQ0Q3iKACaD8cgmg8ocAamCAHwQwAZRfLgFU%2FhTw3VAAAGgO9S7CW0r%2BMNFUmfTnZpt3Cm%2FWMoUHaPa7oOQdAgQBCFArBDABeuSWSwDnF0wAlz0EMAEIUDcEMAF65JZLAOcXTACXPtsECAIQoFYIYAL0yC%2BXACp%2FCCACEKBeCGAC9MgvlwAqfwigxgVIvjPYp%2FnVQvdprtLaAPUcbNCWAF0VerTH5tQ7b1XJL3cJAozjiQ8ObXecfO9vnP9th1Alv9wlDzCONR9Q%2BLiSzyj5aj9OlfxyC1kDctHxqcFG4bcVXlf4pcJfC5DegL%2BAUtYdAtTMhg%2F1153ks7vizGcbHgJMte5MepoHATIQPjLiFJBxJzMRYIFxTip8Uck3lfxQyc%2BV%2FH4xvwAAAAAAAACAloxfpi%2FDXhUuwTAAAAAASUVORK5CYII%3D)](https://www.microsoft.com/en-in/windows)
