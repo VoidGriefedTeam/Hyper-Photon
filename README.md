@@ -1,4 +1,3 @@
----
 *Hyper-Photon™ is a trademark of VoidGriefedTeam*
 ---
 # Hyper-Photon™
