@@ -192,8 +192,10 @@ Hyper-Photon bundles the following third-party libraries under `THIRD_PARTY/` (s
 
 Hyper-Photon is early-stage. Planned directions include expanding the keyword dictionary, adding control flow and variables beyond simple function calls, and improving error diagnostics.
 
-## License
+--
 
-Hyper-Photon is licensed under the **GNU General Public License v3.0** — see [LICENSE](LICENSE) for details.
+### ⚖️ Legal & Licensing
 
-Bundled third-party components retain their own permissive licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+*   **Hyper-Photon™** is a trademark of **VoidGriefedTeam**.
+*   Copyright © 2026 VoidGriefedTeam.
+*   This software is licensed under the **GNU General Public License v2.0**. See the [LICENSE](./LICENSE) file for full legal terms.
